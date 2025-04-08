@@ -1,0 +1,9 @@
+
+#pragma once
+
+#define WIFI_SSID     "MY_SSID"
+#define PASSWORD      "MY_PASSWORD"
+
+#define MQTT_SERVER   "mqtt"
+#define MQTT_PREFIX   "sensor/airq"
+#define MQTT_LOCATION "any"
